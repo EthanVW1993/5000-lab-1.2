@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#section-1-professional-overview",
+    "href": "index.html#section-1-professional-overview",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 1: Professional Overview",
+    "text": "Section 1: Professional Overview\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nSuspendisse bold text, italic text, and inline code are supported."
+  },
+  {
+    "objectID": "index.html#section-2-two-columns-example",
+    "href": "index.html#section-2-two-columns-example",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 2: Two Columns Example",
+    "text": "Section 2: Two Columns Example\n\n\nThis is the left column. You can add text, lists, images, etc. - Bullet 1 - Bullet 2 - Bullet 3\n\nThis is the right column.\nHere is some more placeholder text."
+  },
+  {
+    "objectID": "index.html#section-3-bulleted-list",
+    "href": "index.html#section-3-bulleted-list",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 3: Bulleted List",
+    "text": "Section 3: Bulleted List\nHere is a bulleted list outside columns:\n\nFirst item\nSecond item\nThird item"
+  },
+  {
+    "objectID": "index.html#section-4-markdown-table",
+    "href": "index.html#section-4-markdown-table",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 4: Markdown Table",
+    "text": "Section 4: Markdown Table\n\n\n\nFeature\nDescription\n\n\n\n\nTables\nSupported\n\n\nLists\nSupported\n\n\nMath\nSupported"
+  },
+  {
+    "objectID": "index.html#section-5-inline-math",
+    "href": "index.html#section-5-inline-math",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 5: Inline Math",
+    "text": "Section 5: Inline Math\nEuler’s formula: $ e^{i} + 1 = 0 $"
+  },
+  {
+    "objectID": "index.html#section-6-non-inline-math",
+    "href": "index.html#section-6-non-inline-math",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 6: Non Inline Math",
+    "text": "Section 6: Non Inline Math\nHere is a displayed equation:\n\\[\nf(x) = \\int_{-\\infty}^{\\infty} e^{-t^2} dt\n\\]"
+  },
+  {
+    "objectID": "index.html#section-7-footnote",
+    "href": "index.html#section-7-footnote",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 7: Footnote",
+    "text": "Section 7: Footnote\nThis is a statement that needs a footnote1."
+  },
+  {
+    "objectID": "index.html#section-8-quote",
+    "href": "index.html#section-8-quote",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 8: Quote",
+    "text": "Section 8: Quote\n\n“Data will talk if you’re willing to listen.” — Jim Bergeson"
+  },
+  {
+    "objectID": "index.html#section-9-embedded-images",
+    "href": "index.html#section-9-embedded-images",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 9: Embedded Images",
+    "text": "Section 9: Embedded Images"
+  },
+  {
+    "objectID": "index.html#section-10-embedded-video",
+    "href": "index.html#section-10-embedded-video",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Section 10: Embedded Video",
+    "text": "Section 10: Embedded Video\nYou can embed a video from YouTube:\n```markdown ::: {.video}  :::"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee @freeman2004development for details.↩︎"
+  },
+  {
+    "objectID": "index.html#text-with-two-columns",
+    "href": "index.html#text-with-two-columns",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Text with Two columns",
+    "text": "Text with Two columns\n\n\nLeft Column text example, with Bullets.\n\nBullet 1\nBullet 2\nBullet 3\n\n\nRight Column text example.\nNormal inline text example."
+  },
+  {
+    "objectID": "index.html#bulleted-list-example",
+    "href": "index.html#bulleted-list-example",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Bulleted List Example",
+    "text": "Bulleted List Example\n\nFirst item\nSecond item\nThird item"
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Markdown Table",
+    "text": "Markdown Table\n\n\n\nFeature\nDescription\n\n\n\n\nTables\nSupported\n\n\nLists\nSupported\n\n\nMath\nSupported"
+  },
+  {
+    "objectID": "index.html#inline-math",
+    "href": "index.html#inline-math",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Inline Math",
+    "text": "Inline Math\nEuler’s formula: $ e^{i} + 1 = 0 $"
+  },
+  {
+    "objectID": "index.html#non-inline-math",
+    "href": "index.html#non-inline-math",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Non Inline Math",
+    "text": "Non Inline Math\nHere is a displayed equation:\n\\[\nf(x) = \\int_{-\\infty}^{\\infty} e^{-t^2} dt\n\\]"
+  },
+  {
+    "objectID": "index.html#footnote",
+    "href": "index.html#footnote",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Footnote",
+    "text": "Footnote\nIn this book, Freeman explores the origins of social network analysis (SNA). He traces the history of ideas about social structure and network patterning across different social science disciplines, revealing how they were eventually woven together into a coherent field of study. The book reviews these developments and examines the social processes that brought the different “schools” of network analysis together into a single, unified approach. 1."
+  },
+  {
+    "objectID": "index.html#quote",
+    "href": "index.html#quote",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Quote",
+    "text": "Quote\n\n“Happiness is a warm puppy.” — Charles M. Schulz"
+  },
+  {
+    "objectID": "index.html#embedded-images",
+    "href": "index.html#embedded-images",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Embedded Images",
+    "text": "Embedded Images"
+  },
+  {
+    "objectID": "index.html#embedded-video",
+    "href": "index.html#embedded-video",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Embedded Video",
+    "text": "Embedded Video"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram",
+    "href": "index.html#mermaid-diagram",
+    "title": "Ethan Wotring’s Quarto Website",
+    "section": "Mermaid Diagram",
+    "text": "Mermaid Diagram\ngraph TD A[Start] –&gt; B[Process] B –&gt; C{Decision} C –&gt;|Yes| D[Outcome 1] C –&gt;|No| E[Outcome 2]"
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "Lab Slides",
+    "section": "",
+    "text": "Welcome to my presentation. This is the opening slide.\n\n\n\nHere is a background section with a citation [@freeman2004development].\nCitations are pulled from reference.bib.\n\n\n\n\nHere are two images included from the slides/images/ folder:\n\n\n\n\n\n\nBelow is a code cell with folding enabled. The code can be hidden, but the plot will be shown.\n\n\nCode\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.cos(x)\n\nplt.figure(figsize=(8,5))\nplt.plot(x, y, color=\"green\", label=\"Cosine wave\")\nplt.title(\"Cosine Function Example\")\nplt.legend()\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#background-and-citations",
+    "href": "slides/slides.html#background-and-citations",
+    "title": "Lab Slides",
+    "section": "",
+    "text": "Here is a background section with a citation [@freeman2004development].\nCitations are pulled from reference.bib."
+  },
+  {
+    "objectID": "slides/slides.html#images",
+    "href": "slides/slides.html#images",
+    "title": "Lab Slides",
+    "section": "",
+    "text": "Here are two images included from the slides/images/ folder:"
+  },
+  {
+    "objectID": "slides/slides.html#python-plot-example",
+    "href": "slides/slides.html#python-plot-example",
+    "title": "Lab Slides",
+    "section": "",
+    "text": "Below is a code cell with folding enabled. The code can be hidden, but the plot will be shown.\n\n\nCode\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.cos(x)\n\nplt.figure(figsize=(8,5))\nplt.plot(x, y, color=\"green\", label=\"Cosine wave\")\nplt.title(\"Cosine Function Example\")\nplt.legend()\nplt.show()"
+  }
+]

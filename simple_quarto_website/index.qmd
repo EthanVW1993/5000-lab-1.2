@@ -1,0 +1,102 @@
+---
+title: "Ethan Wotring's Quarto Website"
+---
+
+---
+
+# Welcome to My Lab 3 Website
+
+This website is my submission for my Lab 3 Quarto Website submission.
+
+---
+
+## Text with Two columns
+
+::: columns
+
+::: {.column width="50%"}
+**Left Column text example, with Bullets**.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+:::
+
+::: {.column width="50%"}
+**Right Column text example**.  
+Normal inline text example.
+:::
+
+:::
+
+---
+
+## Bulleted List Example
+
+- First item
+- Second item
+- Third item
+
+---
+
+## Markdown Table
+
+| Feature | Description |
+|---------|-------------|
+| Tables  | Supported   |
+| Lists   | Supported   |
+| Math    | Supported   |
+
+---
+
+## Inline Math
+
+Euler's formula: $ e^{i\pi} + 1 = 0 $
+
+---
+
+## Non Inline Math
+
+Here is a displayed equation:
+
+$$
+f(x) = \int_{-\infty}^{\infty} e^{-t^2} dt
+$$
+
+---
+
+## Footnote
+
+In this book, Freeman explores the origins of social network analysis (SNA). He traces the history of ideas about social structure and network patterning across different social science disciplines, revealing how they were eventually woven together into a coherent field of study. The book reviews these developments and examines the social processes that brought the different "schools" of network analysis together into a single, unified approach. [^1].
+
+[^1]: See @freeman2004development for details.
+
+---
+
+## Quote
+
+> “Happiness is a warm puppy.” — Charles M. Schulz
+
+---
+
+## Embedded Images
+
+![Sample Image 1](images/image1.png)
+![Sample Image 2](images/image2.png)
+
+
+---
+
+## Embedded Video
+
+::: {.video}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+:::
+
+## Mermaid Diagram
+
+graph TD
+    A[Start] --> B[Process]
+    B --> C{Decision}
+    C -->|Yes| D[Outcome 1]
+    C -->|No| E[Outcome 2]
